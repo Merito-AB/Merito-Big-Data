@@ -1,1 +1,2 @@
 plik utworzony na branchu lokalnym
+nowa linijka
